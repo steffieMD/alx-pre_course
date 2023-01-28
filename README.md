@@ -1,2 +1,1 @@
-My first README..
-An update 
+My first README
